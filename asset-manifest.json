@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4561b01.css",
+    "main.js": "/static/js/main.f42a6449.js",
+    "static/js/787.a39507a8.chunk.js": "/static/js/787.a39507a8.chunk.js",
+    "static/media/Instagram.png": "/static/media/Instagram.53ab697aa6d7a7a5d3cd.png",
+    "static/media/Fidget-spinner.gif": "/static/media/Fidget-spinner.29181c59a23df5c07450.gif",
+    "static/media/uzer.png": "/static/media/uzer.9dc92b0a1003b149f6c9.png",
+    "static/media/Viber.png": "/static/media/Viber.70872a05398beec1f80b.png",
+    "index.html": "/index.html",
+    "main.b4561b01.css.map": "/static/css/main.b4561b01.css.map",
+    "main.f42a6449.js.map": "/static/js/main.f42a6449.js.map",
+    "787.a39507a8.chunk.js.map": "/static/js/787.a39507a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4561b01.css",
+    "static/js/main.f42a6449.js"
+  ]
+}
